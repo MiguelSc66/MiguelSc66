@@ -41,4 +41,10 @@ Mi objetivo actual es lograr un progreso significativo tanto en mi desarrollo pe
 - LinkedIn: www.linkedin.com/in/miguel-ivan-scaccia
 - Correo Electrónico: miguel.scaccia1@gmail.com
 
+## Portfolio 💼
+
+Puedes echar un vistazo a algunos de mis proyectos y trabajos anteriores en mi [portfolio en línea](https://my-portfolio-miguelscaccia.vercel.app/). Aquí encontrarás una variedad de proyectos que destacan mis habilidades y experiencia en desarrollo web y otras tecnologías.
+
+Si tienes alguna pregunta o comentario sobre alguno de mis proyectos, no dudes en ponerte en contacto conmigo. ¡Espero que disfrutes explorando mi trabajo! 
+
 ¡Gracias por visitar mi perfil de GitHub! Espero que encuentres interesantes mis proyectos y contribuciones. No dudes en contactarme si tienes alguna pregunta o propuesta de colaboración. 😊
