@@ -11,7 +11,7 @@ En constante búsqueda de superar mis límites y aprender algo nuevo cada día, 
 ## Educación 📚
 
 - Henry: Graduado como Full Stack Developer.
-- ISPC: Próximamente iniciaré la tecnicatura en Inteligencia Artificial y Ciencia de Datos.
+- ISPC: Estoy cursando la tecnicatura en Desarrollo de Software.
 
 ## Tecnologías de Interés 🛠️
 
