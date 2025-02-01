@@ -16,6 +16,8 @@ En constante búsqueda de superar mis límites y aprender algo nuevo cada día, 
 ## Tecnologías de Interés 🛠️
 
 - JavaScript
+- TypeScript
+- Next
 - Node
 - PostgreSQL
 - Sequelize
